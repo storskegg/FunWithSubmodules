@@ -1,0 +1,3 @@
+[submodule "lib/sklib"]
+	path = lib/sklib
+	url = https://github.com/storskegg/sklib.git
