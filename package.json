@@ -1,0 +1,9 @@
+{
+  "name": "FunWithSubmodules",
+  "version": "1.0.0",
+  "description": "Just getting my feet wet with submodules",
+  "main": "index.js",
+  "repository": "https://github.com/storskegg/FunWithSubmodules.git",
+  "author": "Liam Conrad",
+  "license": "MIT"
+}
